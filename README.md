@@ -13,7 +13,7 @@ Racket Lisp
 (sqrt (+ (sqr 4) (sqr 4)))
 ```
 
-## Lists
+### Lists
 
 ```lisp
 (list 1 2 3 4 5 6 7 8 9 0)
