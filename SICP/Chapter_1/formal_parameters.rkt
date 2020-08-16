@@ -1,7 +1,6 @@
 #lang scheme
 
 (define (square x ) (* x x))
-
 (square 21)
 (square (+ 2 5))
 (square (square 3))
